@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061866778240",
+    "firebase_url": "https://database-7944f.firebaseio.com",
+    "project_id": "database-7944f",
+    "storage_bucket": "database-7944f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061866778240:android:9b8590572e245f62",
+        "android_client_info": {
+          "package_name": "koti.fcmdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061866778240-dqatbbh0kl62ke7sesh4f6fn04mt2pdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4gFHgig-Dhf4f39UiJEW8hUX5fHyxF6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
